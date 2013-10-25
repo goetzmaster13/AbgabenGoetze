@@ -15,6 +15,18 @@ public class Student extends Person implements Comparable<Student> {
 	private boolean selfEntitled;
 	private Date birthDate; // TODO add getter,setter,Constructors
 
+	public Date getBirthDate(){
+		return this.birthDate;
+	}
+	
+	public void setBirthDate(Date birthDate){
+		this.birthDate=birthDate;
+	}
+	
+	public boolean getSelfEntitled(){
+		return this.selfEntitled;
+	}
+	
 	public void setSelfEntitled(boolean selfEntitled) {
 		this.selfEntitled = selfEntitled;
 	}
