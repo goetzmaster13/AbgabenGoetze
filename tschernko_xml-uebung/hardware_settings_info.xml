@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hardware_settings_info>
+	<systemInfo OS=" (Build 9200)" totalMemory="8371308" winPlatformID="2" winMajorVersion="6" winMinorVersion="2" isWinXP="false" isWinVista="false" isWin7="false" rating="3" />
+	
+	<graphics_card name="AMD Radeon HD 7900 Series" vendorId="0x1002" deviceId="0x679A" vs_shader="3_0" ps_shader="3_0" native_width="1920" native_height="1080" memory="4095" rating="3">
+		<resolution width="640" height="480" aspect="auto">
+			<refreshRate rate="59" />
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="720" height="480" aspect="auto">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="720" height="576" aspect="auto">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="800" height="600" aspect="auto">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="848" height="480" aspect="auto">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1024" height="768" aspect="auto">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1280" height="720" aspect="auto">
+			<refreshRate rate="50" />
+			<refreshRate rate="59" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1280" height="768" aspect="auto">
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1280" height="800" aspect="auto">
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1280" height="900" aspect="auto">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1280" height="960" aspect="auto">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1280" height="1024" aspect="auto">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1360" height="768" aspect="auto">
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1360" height="1024" aspect="auto">
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1440" height="900" aspect="auto">
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1600" height="900" aspect="auto">
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1680" height="1050" aspect="auto">
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1920" height="1080" aspect="auto">
+			<refreshRate rate="50" />
+			<refreshRate rate="59" />
+			<refreshRate rate="60" />
+			<refreshRate rate="25" />
+			<refreshRate rate="29" />
+			<refreshRate rate="30" />
+		</resolution>
+	</graphics_card>
+	
+</hardware_settings_info>
